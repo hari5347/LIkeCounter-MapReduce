@@ -1,6 +1,6 @@
 ## Like Counter
 
-Whenever a user clicks likes a URL, an entry is made into the log file in that server with
+Whenever a user likes a URL, an entry is made into the log file in that server with
 these values:
 
 	Timestamp
